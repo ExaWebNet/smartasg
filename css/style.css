@@ -29,7 +29,17 @@ a {
 
 #footer {
     line-height: 16px !important;
-    background-color: #F0F4C3;
+    background-color: #e5eaec;
+}
+
+#bottomFooter {
+    line-height: 24px !important;
+    background-color: #473691;
+}
+
+#topHeader {
+    line-height: 18px !important;
+    background-color: #473691;
 }
 
 #footer a,
